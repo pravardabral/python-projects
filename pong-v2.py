@@ -1,4 +1,5 @@
-# slightly better version of pong with classes
+# slightly better version of pong with classes, this one requires images for the ball and paaddle
+# the images are stored in the assets folder
 
 #imports
 import pygame, sys, random
